@@ -1,4 +1,5 @@
-# Part list
+# Part list / *Elenco componenti*
+## For the board / Per la scheda
 |Name|Description|Value
 |--|--|--|
 |R1,R6|Resistor 1/4W 1%|1Kohm|
@@ -16,3 +17,18 @@
 |RESET_SW|Tactile switch|Omron|
 |12VCC,DCC|Terminal block|2P 5mm|
 |ARM,DCC_IN,DCC_OUT...|Pin headers|
+## To use as a DCC Booster / Per l'utilizzo come Booster DCC
+
+> Links are for reference only, similar products will work well too / *I link sono forniti solo come riferimento, prodotti simili funzioneranno egualmente bene*
+
+|Name|Description|Link
+|--|--|--|
+|ARM|Momentary push button / *Pulsante da pannello*|https://bit.ly/2Idf11M|
+|LED|LED, choose the color you prefer / *LED, scegli il colore che preferisci*|
+|ENCODER|Rotary encoder / *Encoder rotativo*|https://bit.ly/36krh8p
+|LCD|16x2 character display / *Display a caratteri 16x2*|https://bit.ly/3lfGiPk
+|TEMP|DS18B20 temperature sensor / *Sensore temperatura DS18B20*|https://bit.ly/35dIrFF
+## To use as a DCC Command Station / Per l'utilizzo come Centralina DCC
+|Name|Description|Link
+|--|--|--|
+|SERIAL|USB to serial adapter / *Modulo USB - seriale*|https://bit.ly/3eTaGNb
