@@ -16,6 +16,7 @@
 |IC1|Voltage regulator|L7805|
 |RESET_SW|Tactile switch|Omron|
 |12VCC,DCC|Terminal block|2P 5mm|
+|JMPs|Jumpers|
 |ARM,DCC_IN,DCC_OUT...|Pin headers|
 ## To use as a DCC Booster / Per l'utilizzo come Booster DCC
 
@@ -23,6 +24,7 @@
 
 |Name|Description|Link
 |--|--|--|
+|HBRIDGE|BTS7960B motor driver / *Driver motori BTS7960B*|https://bit.ly/3mZRlfY|
 |ARM|Momentary push button / *Pulsante da pannello*|https://bit.ly/2Idf11M|
 |LED|LED, choose the color you prefer / *LED, scegli il colore che preferisci*|
 |ENCODER|Rotary encoder / *Encoder rotativo*|https://bit.ly/36krh8p
@@ -31,4 +33,5 @@
 ## To use as a DCC Command Station / Per l'utilizzo come Centralina DCC
 |Name|Description|Link
 |--|--|--|
+|HBRIDGE|BTS7960B motor driver / *Driver motori BTS7960B*|https://bit.ly/3mZRlfY|
 |SERIAL|USB to serial adapter / *Modulo USB - seriale*|https://bit.ly/3eTaGNb
