@@ -21,4 +21,5 @@ ATmega328p must be programmed with **Arduino bootloader**. You can buy pre-progr
 ![](https://github.com/lucadentella/BoosterBoard/raw/main/images/bootloader-burn.png)
 
 I found very useful [this shield](https://bit.ly/38shwaZ) to program the bootloader:
+
 ![](https://github.com/lucadentella/BoosterBoard/raw/main/images/bootloader-shield.jpg)

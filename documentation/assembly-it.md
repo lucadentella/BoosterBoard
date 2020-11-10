@@ -21,4 +21,5 @@ L'atmega328p deve essere programmato con il **bootloader Arduino**. E' possibile
 ![](https://github.com/lucadentella/BoosterBoard/raw/main/images/bootloader-burn.png)
 
 Ho trovato molto utile [questo shield](https://bit.ly/38shwaZ) per programmare il bootloader:
+
 ![](https://github.com/lucadentella/BoosterBoard/raw/main/images/bootloader-shield.jpg)
