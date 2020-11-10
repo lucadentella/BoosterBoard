@@ -17,7 +17,7 @@ BoosterBoard is an opensource board to create a powerful DCC Booster or Command 
 
 ## Technical documents / *Documenti tecnici*
  - [Schematics / *Schema elettrico* (pdf)](https://github.com/lucadentella/BoosterBoard/blob/main/board/BoosterBoard.pdf)
- - [Eagle files]()
+ - [Eagle files](https://github.com/lucadentella/BoosterBoard/tree/main/board)
  - [Part list / *Elenco componenti*](https://github.com/lucadentella/BoosterBoard/blob/main/documentation/partlist.md)
 
 ## PCB
