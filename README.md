@@ -1,5 +1,6 @@
 # BoosterBoard
 ![](https://github.com/lucadentella/BoosterBoard/raw/main/images/boosterboard.jpg)
+
 BoosterBoard is an opensource board to create a powerful DCC Booster or Command Station.
 
 *BoosterBoard è una scheda opensource disegnata per realizzare un potente Booster DCC o una completa Centralina Digitale.*
