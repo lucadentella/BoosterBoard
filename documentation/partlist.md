@@ -1,5 +1,6 @@
 # Part list / *Elenco componenti*
 ## For the board / Per la scheda
+![](https://github.com/lucadentella/BoosterBoard/raw/main/images/parts-board.jpg)
 |Name|Description|Value
 |--|--|--|
 |R1,R6|Resistor 1/4W 1%|1Kohm|
@@ -19,7 +20,7 @@
 |JMPs|Jumpers|
 |ARM,DCC_IN,DCC_OUT...|Pin headers|
 ## To use as a DCC Booster / Per l'utilizzo come Booster DCC
-
+![](https://github.com/lucadentella/BoosterBoard/raw/main/images/parts-booster.jpg)
 > Links are for reference only, similar products will work well too / *I link sono forniti solo come riferimento, prodotti simili funzioneranno egualmente bene*
 
 |Name|Description|Link
@@ -31,6 +32,7 @@
 |LCD|16x2 character display / *Display a caratteri 16x2*|https://bit.ly/3lfGiPk
 |TEMP|DS18B20 temperature sensor / *Sensore temperatura DS18B20*|https://bit.ly/35dIrFF
 ## To use as a DCC Command Station / Per l'utilizzo come Centralina DCC
+![](https://github.com/lucadentella/BoosterBoard/raw/main/images/parts-cs.jpg)
 |Name|Description|Link
 |--|--|--|
 |HBRIDGE|BTS7960B motor driver / *Driver motori BTS7960B*|https://bit.ly/3mZRlfY|
