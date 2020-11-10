@@ -23,7 +23,7 @@ BoosterBoard is an opensource board to create a powerful DCC Booster or Command 
 ## PCB
 PCBs can be ordered directly from PCBWay
 *I PCB possono essere ordinati direttamente da PCBWay* 
-[](https://www.pcbway.com/project/shareproject/BoosterBoard.html)
+https://www.pcbway.com/project/shareproject/BoosterBoard.html
 
 ## References / *Riferimenti*
  - [A High Power DCC Booster](http://www.trainelectronics.com/DCC_Arduino/DCC_Booster/) (D. Bodnar)
