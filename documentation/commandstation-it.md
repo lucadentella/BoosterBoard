@@ -20,7 +20,7 @@ Inseriamo i jumpers nelle posizioni evidenziate:
 
 Avendo solo un ponte H, dobbiamo scegliere quale segnale DCC++ inviare al suo ingresso.
 
-Usiamo le posizioni in **blu** per il `TRACCIATO PRINCIPALE (MAIN` o le posizioni in **arancione** per il `BINARIO DI PROGRAMMAZIONE`.
+Usiamo le posizioni in **blu** per il `TRACCIATO PRINCIPALE (MAIN`) o le posizioni in **arancione** per il `BINARIO DI PROGRAMMAZIONE`.
 
 ## Collegamenti
 
