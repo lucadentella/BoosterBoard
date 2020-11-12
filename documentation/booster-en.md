@@ -1,4 +1,3 @@
-
 # BoosterBoard as DCC Booster
 
 ## Firmware
@@ -10,6 +9,12 @@ Connect a USB to Serial adapter to the `SERIAL` port as follows:
 ![](https://github.com/lucadentella/BoosterBoard/raw/main/images/serial-programming.jpg)
 
 Download the [latest firmware](https://github.com/lucadentella/BoosterBoard/tree/main/firmware) from Github and program using Arduino IDE (select *Arduino Uno* as board).
+
+## Jumpers
+
+Insert the jumpers as follows:
+
+![](https://github.com/lucadentella/BoosterBoard/raw/main/images/jumpers-booster.jpg)
 
 ## Connections
 

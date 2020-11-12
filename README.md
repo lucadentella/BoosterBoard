@@ -8,12 +8,12 @@ BoosterBoard is an opensource board to create a powerful DCC Booster or Command 
 ## Documentation
  - [Assembly instructions (*english*)](https://github.com/lucadentella/BoosterBoard/blob/main/documentation/assembly-en.md)
  - [Guide for use as a DCC Booster (*english*)](https://github.com/lucadentella/BoosterBoard/blob/main/documentation/booster-en.md)
- - Guide for use as a DCC Command Station (*english*)
+ - [Guide for use as a DCC Command Station (*english*)](https://github.com/lucadentella/BoosterBoard/blob/main/documentation/commandstation-en.md)
  
 ## Documentazione
  - [Istruzioni per il montaggio (*italiano*)](https://github.com/lucadentella/BoosterBoard/blob/main/documentation/assembly-it.md)
  - [Guida per l'utilizzo come Booster DCC (*italiano*)](https://github.com/lucadentella/BoosterBoard/blob/main/documentation/booster-it.md)
- - Guida per l'utilizzo come Centralina DCC (*italiano*)
+ - [Guida per l'utilizzo come Centralina DCC (*italiano*)](https://github.com/lucadentella/BoosterBoard/blob/main/documentation/commandstation-it.md)
 
 ## Technical documents / *Documenti tecnici*
  - [Schematics / *Schema elettrico* (pdf)](https://github.com/lucadentella/BoosterBoard/blob/main/board/BoosterBoard.pdf)
