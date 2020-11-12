@@ -16,7 +16,7 @@ Scarichiamo l'ultima versione del firmware da Github e programmiamo la scheda us
 
 Inseriamo i jumpers nelle posizioni evidenziate:
 
-![](https://github.com/lucadentella/BoosterBoard/raw/main/images/jumpers-cs.jpg.jpg)
+![](https://github.com/lucadentella/BoosterBoard/raw/main/images/jumpers-cs.jpg)
 
 Avendo solo un ponte H, dobbiamo scegliere quale segnale DCC++ inviare al suo ingresso.
 

@@ -16,7 +16,7 @@ Download the latest version of this firmware from Github and program using Ardui
 
 Insert the jumpers as follows:
 
-![](https://github.com/lucadentella/BoosterBoard/raw/main/images/jumpers-cs.jpg.jpg)
+![](https://github.com/lucadentella/BoosterBoard/raw/main/images/jumpers-cs.jpg)
 
 Having only one H-Bridge, you have to choose which DCC++ signal will be its input.
 
