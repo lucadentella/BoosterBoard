@@ -224,7 +224,7 @@ void checkEncoder() {
   int newEncoderPosition = encoder.getPosition();
   if (encoderPosition != newEncoderPosition) {
 
-    bool positiveIncrement = (encoderPosition < newEncoderPosition);
+    bool positiveIncrement = (encoderPosition > newEncoderPosition);
     
     switch(currentConfigStatus) {
 
@@ -234,18 +234,23 @@ void checkEncoder() {
         break;
 
       case S_MODIFY:
-        if(currentChoice && maxCurrent < MAX_CURRENT) {
-          if(positiveIncrement) maxCurrent -= 0.1;
-          else maxCurrent += 0.1;
-          EEPROM.put(E_MAX_CURR_ADDR, maxCurrent);
-          printMaxCurrent();
+        bool changed = false;
+        if(currentChoice) {
+          if(positiveIncrement && maxCurrent < MAX_CURRENT) { maxCurrent += 0.1; changed = true; }
+          if(!positiveIncrement && maxCurrent > 0.1) { maxCurrent -= 0.1; changed = true; }
+          if(changed) {
+            EEPROM.put(E_MAX_CURR_ADDR, maxCurrent);
+            printMaxCurrent();
+          } 
         }
-        else if(!currentChoice && maxTemperature < MAX_TEMPERATURE) {
-          if(positiveIncrement) maxTemperature -= 1;
-          else maxTemperature += 1;
-          EEPROM.put(E_MAX_TEMP_ADDR, maxTemperature);
-          printMaxTemperature();
-        }        
+        if(!currentChoice) {
+          if(positiveIncrement && maxTemperature < MAX_TEMPERATURE) { maxTemperature += 1.0; changed = true; }
+          if(!positiveIncrement && maxTemperature > 0.1) { maxTemperature -= 1.0; changed = true; }
+          if(changed) {
+            EEPROM.put(E_MAX_TEMP_ADDR, maxTemperature);
+            printMaxTemperature();
+          } 
+        }      
         break; 
     }
     encoderPosition = newEncoderPosition;
