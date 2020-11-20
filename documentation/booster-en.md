@@ -32,9 +32,11 @@ Connect the H-Bridge board to `H-BRIDGE` port (1->1, 2->2...) and the temperatur
 
 ## Operation
 
-Power both BoosterBoard and H-Bridge driver with **12V CC**.
+Power BoosterBoard connecting **12V and GND**. Connect the **DCC** input signal to the `DCC` terminal block.
 
-Connect **DCC** signal to `DCC` terminal.
+Power the H bridge (`B+ B-` terminals) and connect the output (`M+ M-` terminals) to the layout:
+
+![](https://github.com/lucadentella/BoosterBoard/raw/main/images/conn-hbridge.jpg)
 
 BoosterBoard starts in **STOP** mode. You can turn the booster ON and OFF pressing the push button.
 

@@ -32,7 +32,11 @@ You only need to connect a USB to Serial adapter to send commands to the command
 
 ## Operation
 
-Power both BoosterBoard and H-Bridge driver with **12V CC**.
+Power BoosterBoard connecting **12V and GND**.
+
+Power the H bridge (`B+ B-` terminals) and connect the output (`M+ M-` terminals) to the layout:
+
+![](https://github.com/lucadentella/BoosterBoard/raw/main/images/conn-hbridge.jpg)
 
 Connect the Serial adapter to your computer.
 

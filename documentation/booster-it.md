@@ -32,9 +32,11 @@ Colleghiamo il ponte H alla porta `H-BRIDGE` (1->1, 2->2...) e il sensore temper
 
 ## Funzionamento
 
-Alimentiamo BoosterBoard e il ponte H con **12V CC**.
+Alimentiamo BoosterBoard collegando **12V e massa**. Colleghiamo il segnale **DCC** alla morsettiera `DCC`.
 
-Colleghiamo il segnale **DCC** alla morsettiera `DCC`.
+Alimentiamo il ponte H (morsettiera `B+ B-`) e colleghiamo la sua uscita (morsettiera `M+ M-`) al tracciato:
+
+![](https://github.com/lucadentella/BoosterBoard/raw/main/images/conn-hbridge.jpg)
 
 BoosterBoard si avvia in modalità **STOP**. E' possibile ACCENDERE e SPEGNERE il booster premendo il pulsante.
 

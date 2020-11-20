@@ -32,7 +32,11 @@ Dobbiamo solo collegare un adattatore USB Seriale per inviare comandi alla comma
 
 ## Funzionamento
 
-Alimentiamo BoosterBoard e il ponte H con **12V CC**.
+Alimentiamo BoosterBoard collegando **12V e massa**.
+
+Alimentiamo il ponte H (morsettiera `B+ B-`) e colleghiamo la sua uscita (morsettiera `M+ M-`) al tracciato:
+
+![](https://github.com/lucadentella/BoosterBoard/raw/main/images/conn-hbridge.jpg)
 
 Colleghiamo l'adattatore seriale al nostro computer.
 
