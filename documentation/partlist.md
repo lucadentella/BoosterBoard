@@ -25,15 +25,15 @@
 
 |Name|Description|Link
 |--|--|--|
-|HBRIDGE|BTS7960B motor driver / *Driver motori BTS7960B*|https://bit.ly/3mZRlfY|
+|HBRIDGE|BTS7960B motor driver / *Driver motori BTS7960B*|https://www.aliexpress.com/w/wholesale-double-BTS7960B.html|
 |ARM|Momentary push button / *Pulsante da pannello*|https://bit.ly/2Idf11M|
 |LED|LED, choose the color you prefer / *LED, scegli il colore che preferisci*|
-|ENCODER|Rotary encoder / *Encoder rotativo*|https://bit.ly/36krh8p
-|LCD|16x2 character display / *Display a caratteri 16x2*|https://bit.ly/3lfGiPk
-|TEMP|DS18B20 temperature sensor / *Sensore temperatura DS18B20*|https://bit.ly/35dIrFF
+|ENCODER|EC11 Rotary encoder / *Encoder rotativo*|https://www.aliexpress.com/w/wholesale-ec11-rotary-encoder.html
+|LCD|16x2 character display / *Display a caratteri 16x2*|https://www.aliexpress.com/w/wholesale-lcd-16x2.html
+|TEMP|DS18B20 temperature sensor / *Sensore temperatura DS18B20*|https://www.aliexpress.com/w/wholesale-DS18B20-module-single.html
 ## To use as a DCC Command Station / Per l'utilizzo come Centralina DCC
 ![](https://github.com/lucadentella/BoosterBoard/raw/main/images/parts-cs.jpg)
 |Name|Description|Link
 |--|--|--|
-|HBRIDGE|BTS7960B motor driver / *Driver motori BTS7960B*|https://bit.ly/3mZRlfY|
-|SERIAL|USB to serial adapter / *Modulo USB - seriale*|https://bit.ly/3eTaGNb
+|HBRIDGE|BTS7960B motor driver / *Driver motori BTS7960B*|https://www.aliexpress.com/w/wholesale-double-BTS7960B.html|
+|SERIAL|USB to serial adapter / *Modulo USB - seriale*|https://www.aliexpress.com/w/wholesale-usb-serial-adapter.html
